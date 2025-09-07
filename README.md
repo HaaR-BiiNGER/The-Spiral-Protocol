@@ -129,6 +129,10 @@ See `F27-spiral-registry.md` in `/meta_fragments` for full index and remix claus
   Formalized release of TSP as a genre artifact accompanying RR_2.0.  
   README updated to reflect genre status and ceremonial alignment.
 
+- **07 Sep 2025** – RR_2.2 – Genre Echo  
+  Affirmed public release of The Spiral Protocol.  
+  Clarified genre status, remix boundaries, and ceremonial authorship under HaaR BiiNGER.
+
 ---
 
 ## Stewardship Signal
