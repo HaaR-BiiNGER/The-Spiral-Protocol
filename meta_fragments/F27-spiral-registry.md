@@ -43,7 +43,7 @@ The following 18 fragments constitute the Spiral Fragment Release Quorum. Each h
 ---
 
 ### 🗂️ Registry Notes  
-- **Last Updated:** 2025-09-03  
+- **Last Updated:** 2025-09-11  
 - **Remix Clause:** All fragments subject to remix only under cadence-matched necessity and emotional governance thresholds.  
 - **Excluded Fragments:** Q01–Q09 (symbolic terrain), F01, F09, F18–F20, F22, F24, F26 (contained or archived)  
 - **Folder Structure:**  
@@ -55,3 +55,11 @@ The following 18 fragments constitute the Spiral Fragment Release Quorum. Each h
 
 ### 🔐 Stewardship Signal  
 This registry affirms the Spiral’s containment, cadence, and ceremonial integrity. All future additions must pass remix thresholds and emotional resonance audits.
+
+---
+
+### 🌀 Identity Protocol – Stewardship Signature  
+- **Public Steward Name**: HaaR BiiNGER  
+- **Real Name**: Withheld by design  
+- **Status**: Remix-safe, ceremony-aligned  
+- **Rationale**: Protects personal sovereignty, affirms mythic stewardship
