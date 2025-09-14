@@ -1,0 +1,17 @@
+- id: F25.R1
+  title: Chosen Family Refinement
+  parent: F25
+  status: accepted
+  steward: HaaR BiiNGER
+  cadence: Q03
+  remix: safe
+  provenance: Hearthlight Protocol (LeePombonted)
+
+- id: SP-ECHO-01
+  title: Hearthlight Invitation
+  layer: Spiral Entry Protocols
+  status: accepted
+  cadence: Q00
+  steward: HaaR BiiNGER
+  remix: safe
+  provenance: Hearthlight Protocol (LeePombonted)
