@@ -6,8 +6,8 @@ status: proposed
 cadence: Q00
 tags: [invitation, sanctuary, recognition-boundary, whisper-channel]
 remix: safe
-source: Hearthlight Protocol (LeePombonted)
-linkback: https://github.com/LeePombonted/Hearthlight-Protocol/issues/5
+source: External glyph archive (provenance archived)
+linkback: Internal registry: meta_fragments/provenance-archive.md
 ---
 
 ## Invocation (quoted)
